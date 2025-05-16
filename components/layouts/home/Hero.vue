@@ -30,7 +30,7 @@
             <strong class="font-bold lowercase text-slate-700 dark:text-slate-300"
               >Full Stack Developer</strong
             >
-            | networking | cybersecurity
+            | DevOps | Cybersecurity
             <span class="block">Passionate about building secure and scalable systems.</span>
           </h2>
           <!-- <ClientOnly>
@@ -43,7 +43,7 @@
           :delay="200"
           class="opacity-0 flex items-center mt-8 gap-5"
         >
-          <a href="https://www.linkedin.com/in/adama-niasse" target="_blank">
+          <a href="https://www.linkedin.com/in/adama-niasse-82878b211" target="_blank">
             <button
               class="px-8 py-3 text-base font-semibold text-white transition duration-200 ease-in-out transform bg-accent-600 rounded-xl hover:bg-accent-500 hover:scale-105"
             >
@@ -53,10 +53,10 @@
           <button class="flex gap-1 font-bold text-sm text-slate-700 items-center">
             <span class="mr-1 text-xl">👋</span>
             CONTACT
-            <a href="https://www.linkedin.com/in/adama-niasse" target="_blank">
+            <a href="https://www.linkedin.com/in/adama-niasse-82878b211" target="_blank">
               <Icon name="pajamas:linkedin" size="20" class="ml-1" />
             </a>
-            <a href="https://github.com/adama-niasse" target="_blank">
+            <a href="https://github.com/aniasse" target="_blank">
               <Icon name="mdi:github" size="20" class="ml-1" />
             </a>
           </button>

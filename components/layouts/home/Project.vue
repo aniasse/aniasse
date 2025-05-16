@@ -19,8 +19,8 @@ const projects = ref<Project[]>([
     title: '0-Shell (Golang)',
     description: 'Shell Unix complet implémenté en Go avec gestion des processus, signaux et commandes système (cd, ls, pwd, etc.). Architecture modulaire avec syscalls bas niveau pour une performance optimale.',
     link: '0-shell',
-    github: 'https://github.com/adama-niasse/0-shell',
-    ownerLink: 'https://github.com/adama-niasse',
+    github: 'https://github.com/aniasse/0-shell',
+    ownerLink: 'https://github.com/aniasse',
     owner: 'adama-niasse',
     repo: '0-shell',
     img: 'shell-project.png',
@@ -31,8 +31,8 @@ const projects = ref<Project[]>([
     title: 'Forum Sécurisé',
     description: 'Plateforme de discussion sécurisée avec authentification OAuth (Google/GitHub), chiffrement des données et modération avancée. Backend en Golang avec API RESTful et frontend React.',
     link: 'forum-security',
-    github: 'https://github.com/adama-niasse/forum-security',
-    ownerLink: 'https://github.com/adama-niasse',
+    github: 'https://github.com/aniasse/forum-security',
+    ownerLink: 'https://github.com/aniasse',
     owner: 'adama-niasse',
     repo: 'forum-security',
     img: 'forum-security.png',
@@ -43,8 +43,8 @@ const projects = ref<Project[]>([
     title: 'Réseau Social',
     description: 'Application sociale complète avec système de followers, messagerie temps réel et notifications. Architecture microservices avec RabbitMQ et WebSocket pour une expérience fluide.',
     link: 'social-network',
-    github: 'https://github.com/adama-niasse/social-network',
-    ownerLink: 'https://github.com/adama-niasse',
+    github: 'https://github.com/aniasse/social-network',
+    ownerLink: 'https://github.com/aniasse',
     owner: 'adama-niasse',
     repo: 'social-network',
     img: 'social.png',
@@ -55,8 +55,8 @@ const projects = ref<Project[]>([
     title: 'FPS Multijoueur',
     description: 'Jeu de tir en réseau avec client Bevy Engine (Rust) et serveur dédié. Synchronisation réseau optimisée avec prédiction de mouvement et réconciliation.',
     link: 'multiplayer-fps',
-    github: 'https://github.com/adama-niasse/multiplayer-fps',
-    ownerLink: 'https://github.com/adama-niasse',
+    github: 'https://github.com/aniasse/multiplayer-fps',
+    ownerLink: 'https://github.com/aniasse',
     owner: 'adama-niasse',
     repo: 'multiplayer-fps',
     img: 'fps.png',
@@ -67,8 +67,8 @@ const projects = ref<Project[]>([
     title: 'Localhost Toolkit',
     description: 'Suite DevOps complète avec reverse proxy NGINX, gestion automatisée de certificats TLS et interface d\'administration. Déploiement Kubernetes avec Terraform.',
     link: 'localhost',
-    github: 'https://github.com/adama-niasse/localhost',
-    ownerLink: 'https://github.com/adama-niasse',
+    github: 'https://github.com/aniasse/localhost',
+    ownerLink: 'https://github.com/aniasse',
     owner: 'adama-niasse',
     repo: 'localhost',
     img: 'localhost.png',
@@ -94,7 +94,7 @@ onMounted(() => {
       </p>
       <div class="mt-5">
         <NuxtLink
-          to="https://github.com/adama-niasse"
+          to="https://github.com/aniasse"
           target="blank"
           class="text-accent-600 font-bold text-sm bg-accent-100 hover:bg-accent-200 px-5 py-3 rounded-3xl"
         >

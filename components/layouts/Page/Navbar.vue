@@ -44,7 +44,7 @@ const showSettings = ref<boolean>(false)
         <span class="font-bold text-xl">Lamya<span class="text-accent-600">kun</span></span>
       </NuxtLink>
       <!-- menu -->
-      <div class="max-md:hidden lg:flex mt-1 ml-5 gap-5">
+      <!-- <div class="max-md:hidden lg:flex mt-1 ml-5 gap-5">
         <NuxtLink to="/projects" class="flex items-center gap-2 text-sm font-bold text-accent-600">
           <span>Projects</span>
         </NuxtLink>
@@ -54,23 +54,22 @@ const showSettings = ref<boolean>(false)
         <NuxtLink to="/contact" class="flex items-center gap-2 text-sm font-bold text-accent-600">
           <span>Contact</span>
         </NuxtLink>
-      </div>
-      <div></div>
+      </div> -->
     </div>
     <div class="flex items-center gap-4">
-      <NuxtLink to="https://github.com/huynamboz" target="_blank">
+      <NuxtLink to="https://github.com/aniasse" target="_blank">
         <Icon name="uil:github" size="24" color="black" />
       </NuxtLink>
-      <NuxtLink to="https://github.com/huynamboz" target="_blank">
+      <NuxtLink to="https://github.com/aniasse" target="_blank">
         <Icon name="pajamas:linkedin" size="22" color="black" />
       </NuxtLink>
-      <div
+      <!-- <div
         class="ml-3 cursor-pointer hover:bg-slate-300/70 bg-slate-300/50 max-md:p-0 max-md:w-9 h-9 px-4 rounded-xl flex gap-2 text-sm font-bold text-slate-700 justify-center items-center"
         @click="showSettings = !showSettings"
       >
         <Icon name="gridicons:layout" size="19" color="black" />
         <span class="max-md:hidden">Quick access</span>
-      </div>
+      </div> -->
     </div>
   </header>
 </template>

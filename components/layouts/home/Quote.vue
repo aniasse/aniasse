@@ -45,7 +45,7 @@
           </div>
         </div>
         <div class="px-5 mt-5 text-xs text-slate-900 font-light">
-          Expertise complète du backend au frontend avec les technologies modernes
+          Expertise du backend au frontend avec les technologies modernes
         </div>
       </div>
     </div>
