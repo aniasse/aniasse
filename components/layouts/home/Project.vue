@@ -21,7 +21,7 @@ const projects = ref<Project[]>([
     link: '0-shell',
     github: 'https://github.com/aniasse/0-shell',
     ownerLink: 'https://github.com/aniasse',
-    owner: 'adama-niasse',
+    owner: 'aniasse',
     repo: '0-shell',
     img: 'shell-project.png',
     tags: ['Golang', 'Syscalls', 'Concurrency', 'TTY', 'UNIX', 'CLI'],
@@ -33,10 +33,10 @@ const projects = ref<Project[]>([
     link: 'forum-security',
     github: 'https://github.com/aniasse/forum-security',
     ownerLink: 'https://github.com/aniasse',
-    owner: 'adama-niasse',
+    owner: 'aniasse',
     repo: 'forum-security',
     img: 'forum-security.png',
-    tags: ['Golang', 'React', 'SQLite', 'JWT', 'Docker', 'OAuth2'],
+    tags: ['Golang', 'JS', 'SQLite', 'JWT', 'Docker', 'OAuth2'],
     type: 'github'
   },
   {
@@ -45,7 +45,7 @@ const projects = ref<Project[]>([
     link: 'social-network',
     github: 'https://github.com/aniasse/social-network',
     ownerLink: 'https://github.com/aniasse',
-    owner: 'adama-niasse',
+    owner: 'aniasse',
     repo: 'social-network',
     img: 'social.png',
     tags: ['Vue.js', 'Golang', 'WebSocket', 'Microservices', 'Redis'],
@@ -57,7 +57,7 @@ const projects = ref<Project[]>([
     link: 'multiplayer-fps',
     github: 'https://github.com/aniasse/multiplayer-fps',
     ownerLink: 'https://github.com/aniasse',
-    owner: 'adama-niasse',
+    owner: 'aniasse',
     repo: 'multiplayer-fps',
     img: 'fps.png',
     tags: ['Rust', 'Bevy', 'Netcode', 'UDP', 'Lockstep', 'GLB'],
@@ -69,7 +69,7 @@ const projects = ref<Project[]>([
     link: 'localhost',
     github: 'https://github.com/aniasse/localhost',
     ownerLink: 'https://github.com/aniasse',
-    owner: 'adama-niasse',
+    owner: 'aniasse',
     repo: 'localhost',
     img: 'localhost.png',
     tags: ['Rust', 'NGINX', 'TLS', 'Kubernetes', 'Terraform', 'Ansible'],
@@ -90,7 +90,7 @@ onMounted(() => {
       <p class="text-accent-700 font-bold text-sm">Mes projets marquants</p>
       <h2 class="text-4xl text-slate-700 font-bold">Projets</h2>
       <p class="text-base text-slate-700 mt-5">
-        Projets personnels développés pour perfectionner mes compétences. Découvrez-les !
+        Découvrez-les !
       </p>
       <div class="mt-5">
         <NuxtLink

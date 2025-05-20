@@ -1,6 +1,6 @@
 <script setup>
 useHead({
-  htmlAttrs: { lang: 'en' },
+  htmlAttrs: { lang: 'fr' },
   title: 'Lamyakun - impressive personal website',
   meta: [{ name: 'description', content: 'An impressive personal website about Lamyakun' }],
 })
