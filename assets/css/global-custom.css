@@ -1,6 +1,0 @@
-/* Import des configurations Tailwind */
-@import './tailwind-custom.css';
-@import './tailwind.css';
-
-/* Import du fichier global original */
-@import './global.css';
