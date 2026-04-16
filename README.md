@@ -130,10 +130,6 @@ Software Engineer de 25 ans, base a Pikine, Dakar, Senegal. Specialise en **Go**
 ### GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aniasse&show_icons=true&theme=default&hide_border=true&count_private=true" alt="GitHub Stats" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aniasse&layout=compact&hide_border=true&langs_count=10" alt="Top Languages" />
 </p>
 
