@@ -12,9 +12,9 @@
 
 ### About Me
 
-Software Engineer, base a Pikine, Dakar, Senegal. Specialise en **Go**, **Rust** et **Vue.js/Nuxt** pour la conception de systemes distribues, securises et performants.
+Software Engineer, base a Dakar, Senegal. Specialise en **Go**, **Rust**, **Python** et **React/Vue.js** pour la conception de systemes distribues, securises et performants.
 
-- 70+ projets realises a **01Talent Senegal / Zone01 Dakar** (specialisation **Cloud & DevOps**)
+- 60+ projets realises a **01Talent Senegal / Zone01 Dakar** (specialisation **Cloud & DevOps**)
 - Developpeur **Freelance** : ecosystemes e-commerce, apps communautaires, apps mobiles
 - Formation en **ingenierie telecom** (ESTM) et **administration & securite des reseaux** (ESMT Dakar)
 
@@ -128,6 +128,6 @@ Software Engineer, base a Pikine, Dakar, Senegal. Specialise en **Go**, **Rust**
 ---
 
 <p align="center">
-  <strong>Adama Niasse</strong> — Pikine, Dakar, Senegal<br/>
+  <strong>Adama Niasse</strong> — Dakar, Senegal<br/>
   <a href="https://aniasse.github.io">portfolio</a> · <a href="mailto:adamaniasse153@gmail.com">adamaniasse153@gmail.com</a> · +221 77 324 86 63
 </p>
