@@ -2,7 +2,7 @@
 <h3 align="center">Software Engineer | Cloud-DevOps | Cybersecurity</h3>
 
 <p align="center">
-  <a href="https://adama.site"><img src="https://img.shields.io/badge/Portfolio-adama.site-orange?style=for-the-badge" alt="Portfolio" /></a>
+  <a href="https://aniasse.github.io"><img src="https://img.shields.io/badge/Portfolio-aniasse.github.io-orange?style=for-the-badge" alt="Portfolio" /></a>
   <a href="https://www.linkedin.com/in/adama-niasse-82878b211"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:adamaniasse153@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
   <a href="https://discord.gg/aniasse"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
@@ -93,16 +93,16 @@ Software Engineer, base a Pikine, Dakar, Senegal. Specialise en **Go**, **Rust**
 
 | Projet | Stack | Description |
 |---|---|---|
-| [Souhibou Telecom](https://adama.site/projects/souhibou-telecom) | Next.js, Go, CinetPay | Ecosysteme e-commerce high-tech : plateforme + dashboard CRM + app mobile |
-| [Jamah Pikine](https://adama.site/projects/jamah-pikine) | Nuxt, React Native, Supabase | Ecosysteme communautaire : plateforme + admin + apps mobiles, streaming Zikr |
+| [Souhibou Telecom](https://aniasse.github.io/projects/souhibou-telecom) | Next.js, Go, CinetPay | Ecosysteme e-commerce high-tech : plateforme + dashboard CRM + app mobile |
+| [Jamah Pikine](https://aniasse.github.io/projects/jamah-pikine) | Nuxt, React Native, Supabase | Ecosysteme communautaire : plateforme + admin + apps mobiles, streaming Zikr |
 | [Secure-Shield](https://github.com/aniasse/Secure-Shield) | TypeScript, AI Agent | Plateforme SOC avec agent IA pour detection d'incidents en temps reel |
 | [Cloud-Design](https://github.com/aniasse/Cloud-Design) | Terraform, AWS, ECS | Infrastructure microservices deployee sur AWS |
 | [Multiplayer FPS](https://github.com/aniasse/multiplayer-fps) | Rust, Bevy, UDP | Jeu FPS multijoueur avec netcode optimise |
-| [Vortex Agency](https://adama.site/projects/vortex) | Nuxt, Three.js, GSAP | Site vitrine agence digitale avec animations 3D |
+| [Vortex Agency](https://aniasse.github.io/projects/vortex) | Nuxt, Three.js, GSAP | Site vitrine agence digitale avec animations 3D |
 | [Real-Time Forum](https://github.com/aniasse/real-time-forum) | Go, WebSocket, JWT | Forum avec messagerie instantanee temps reel |
 | [0-Shell](https://github.com/aniasse/0-shell) | Go, Syscalls | Shell Unix complet avec fork/exec, signaux et pipes |
 
-<p align="center"><em>+ 60 autres projets sur <a href="https://adama.site/projects">adama.site/projects</a></em></p>
+<p align="center"><em>+ 60 autres projets sur <a href="https://aniasse.github.io/projects">aniasse.github.io/projects</a></em></p>
 
 ---
 
