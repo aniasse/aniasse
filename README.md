@@ -12,7 +12,7 @@
 
 ### About Me
 
-Software Engineer de 25 ans, base a Pikine, Dakar, Senegal. Specialise en **Go**, **Rust** et **Vue.js/Nuxt** pour la conception de systemes distribues, securises et performants.
+Software Engineer, base a Pikine, Dakar, Senegal. Specialise en **Go**, **Rust** et **Vue.js/Nuxt** pour la conception de systemes distribues, securises et performants.
 
 - 70+ projets realises a **01Talent Senegal / Zone01 Dakar** (specialisation **Cloud & DevOps**)
 - Developpeur **Freelance** : ecosystemes e-commerce, apps communautaires, apps mobiles
@@ -127,15 +127,7 @@ Software Engineer de 25 ans, base a Pikine, Dakar, Senegal. Specialise en **Go**
 
 ---
 
-### GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aniasse&layout=compact&hide_border=true&langs_count=10" alt="Top Languages" />
-</p>
-
----
-
 <p align="center">
   <strong>Adama Niasse</strong> — Pikine, Dakar, Senegal<br/>
-  <a href="https://adama.site">adama.site</a> · <a href="mailto:adamaniasse153@gmail.com">adamaniasse153@gmail.com</a> · +221 77 324 86 63
+  <a href="https://aniasse.github.io">portfolio</a> · <a href="mailto:adamaniasse153@gmail.com">adamaniasse153@gmail.com</a> · +221 77 324 86 63
 </p>
