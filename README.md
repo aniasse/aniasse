@@ -1,5 +1,5 @@
 <h1 align="center">Adama Niasse</h1>
-<h3 align="center">Software Engineer | Cloud-DevOps | Cybersecurity</h3>
+<h3 align="center">Software Engineer | Cloud-DevSecOps</h3>
 
 <p align="center">
   <a href="https://aniasse.github.io"><img src="https://img.shields.io/badge/Portfolio-aniasse.github.io-orange?style=for-the-badge" alt="Portfolio" /></a>
