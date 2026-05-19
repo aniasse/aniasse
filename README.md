@@ -89,44 +89,6 @@ Software Engineer, base a Dakar, Senegal. Specialise en **Go**, **Rust**, **Pyth
 
 ---
 
-### Featured Projects
-
-| Projet | Stack | Description |
-|---|---|---|
-| [Souhibou Telecom](https://aniasse.github.io/projects/souhibou-telecom) | Next.js, Go, CinetPay | Ecosysteme e-commerce high-tech : plateforme + dashboard CRM + app mobile |
-| [Jamah Pikine](https://aniasse.github.io/projects/jamah-pikine) | Nuxt, React Native, Supabase | Ecosysteme communautaire : plateforme + admin + apps mobiles, streaming Zikr |
-| [Secure-Shield](https://github.com/aniasse/Secure-Shield) | TypeScript, AI Agent | Plateforme SOC avec agent IA pour detection d'incidents en temps reel |
-| [Cloud-Design](https://github.com/aniasse/Cloud-Design) | Terraform, AWS, ECS | Infrastructure microservices deployee sur AWS |
-| [Multiplayer FPS](https://github.com/aniasse/multiplayer-fps) | Rust, Bevy, UDP | Jeu FPS multijoueur avec netcode optimise |
-| [Vortex Agency](https://aniasse.github.io/projects/vortex) | Nuxt, Three.js, GSAP | Site vitrine agence digitale avec animations 3D |
-| [Real-Time Forum](https://github.com/aniasse/real-time-forum) | Go, WebSocket, JWT | Forum avec messagerie instantanee temps reel |
-| [0-Shell](https://github.com/aniasse/0-shell) | Go, Syscalls | Shell Unix complet avec fork/exec, signaux et pipes |
-
-<p align="center"><em>+ 60 autres projets sur <a href="https://aniasse.github.io/projects">aniasse.github.io/projects</a></em></p>
-
----
-
-### Education
-
-| Periode | Formation | Etablissement |
-|---|---|---|
-| 2022 — 2025 | Full Stack Developer (specialisation Cloud & DevOps) | Zone01 Dakar |
-| 2022 — 2023 | Licence pro Administration & Securite des Reseaux | ESMT Dakar |
-| 2020 — 2022 | Ingenierie des telecommunications | ESTM |
-| | Baccalaureat scientifique | Lycee Thierno Saidou Nourou Tall |
-
----
-
-### Experience
-
-| Periode | Poste | Entreprise |
-|---|---|---|
-| 2025 — 2026 | Developpeur Freelance | Dakar & Remote |
-| Mars 2023 — Avril 2026 | Full Stack Developer | 01Talent Senegal |
-| Oct 2022 — Jan 2023 | Assistant Responsable Technique | Zone01 Dakar |
-
----
-
 <p align="center">
   <strong>Adama Niasse</strong> — Dakar, Senegal<br/>
   <a href="https://aniasse.github.io">portfolio</a> · <a href="mailto:adamaniasse153@gmail.com">adamaniasse153@gmail.com</a> · +221 77 324 86 63
