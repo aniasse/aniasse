@@ -12,11 +12,7 @@
 
 ### About Me
 
-Software Engineer, base a Dakar, Senegal. Specialise en **Go**, **Rust**, **Python** et **React/Vue.js** pour la conception de systemes distribues, securises et performants.
-
-- 60+ projets realises a **01Talent Senegal / Zone01 Dakar** (specialisation **Cloud & DevOps**)
-- Developpeur **Freelance** : ecosystemes e-commerce, apps communautaires, apps mobiles
-- Formation en **ingenierie telecom** (ESTM) et **administration & securite des reseaux** (ESMT Dakar)
+Software Engineer, base a Dakar, Senegal. Specialise en **Go**, **Rust**, **C/C++** et **React/Vue.js** pour la conception de systemes distribues, securises et performants.
 
 ---
 
