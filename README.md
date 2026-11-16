@@ -1,4 +1,4 @@
-<h3 align="center">Software & Platform Engineer | Cloud-DevSecOps | Networking</h3>
+<h3 align="center">Software & Platform Engineer | Cloud-DevSecOps | AI Enthousiast</h3>
 
 <p align="center">
   <a href="https://aniasse.github.io"><img src="https://img.shields.io/badge/Portfolio-aniasse.github.io-orange?style=for-the-badge" alt="Portfolio" /></a>
